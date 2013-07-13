@@ -15,18 +15,12 @@
         <li><a href="#"><span>Terms of Use</span></a></li>
         <li><a href="#"><span>Contact</span></a></li>
     </ul>
-
-
     <a href="http://www.twitter.com"><img class="img-icon-header" src="img/twitter-icon.png"></a>
     <a href="#"> <img class="img-icon-header" src="img/thumblr.png"></a>
     <a href="#"><img class="img-icon-header" src="img/friendfeed-icon.png"></a>
     <a href="#"><img class="img-icon-header" src="img/flickr-icon.png"></a>
     <a href="#"><img class="img-icon-header" src="img/delicious-icon.png"></a>
     <a href="http://www.facebook.com"><img class="img-icon-header" src="img/facebook-icon.png"></a>
-
-
-
-
 </header>
 </body>
 </html>
